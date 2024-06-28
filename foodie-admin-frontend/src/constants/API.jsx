@@ -1,5 +1,5 @@
 // Base URL for the API
-export const BASE_URL = "http://localhost:4000";
+export const BASE_URL = "https://foodie-backend-5mf1.onrender.com";
 
 // Food API Endpoints
 export const FOOD_API = {
